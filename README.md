@@ -6,11 +6,7 @@ This project implements a Vue.js frontend that interacts with a Laravel API, pro
 
 - Node v22.12.0;
 - Vue 5.0.8
-<<<<<<< HEAD
 - Backend: https://github.com/jamison0902/php-laravel-api;
-=======
-- Bakend: https://github.com/jamison0902/php-laravel-api;
->>>>>>> fc30d7f (CPF)
 
 ## Home Screen
 
